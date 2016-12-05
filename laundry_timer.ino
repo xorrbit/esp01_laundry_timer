@@ -1,4 +1,8 @@
 /*
+This requires the ESP8266 board support files to be installed
+as per http://www.arduinesp.com/getting-started. This also makes
+use of the TM1637 library from https://github.com/avishorp/TM1637
+
 This simple sketch uses an ESP8266 ESP-01 module as a countdown
 reminder timer. I frequently will throw a load of laundry in the
 washer and even when I set a timer to remind me to put the clothes
