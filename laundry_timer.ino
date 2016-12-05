@@ -1,4 +1,6 @@
 /*
+Prototype photo: https://goo.gl/photos/NjTwntU1QywMau2y6
+
 This requires the ESP8266 board support files to be installed
 as per http://www.arduinesp.com/getting-started. This also makes
 use of the TM1637 library from https://github.com/avishorp/TM1637
