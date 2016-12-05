@@ -3,6 +3,7 @@ Laundry timer for the ESP8266 ESP-01: http://www.esp8266.com/wiki/doku.php?id=es
 
 Prototype photo: https://goo.gl/photos/NjTwntU1QywMau2y6
 ![prototype photo](https://lh3.googleusercontent.com/6R5P5Lql9TwAfV73jizqW56aoePHwbTXgdcs2FTstPrUKKrtCX9jboEyg9MQAf-48n91aasUhaZMHw=w480)
+The only really important part in that photo is the ESP-01 module (and I suppose the display, but even that isn't really needed). The breadboard is only used to facilitate development/debugging and the raspberry pi is just used for 3.3v power :)
 
 This requires the ESP8266 board support files to be installed
 as per http://www.arduinesp.com/getting-started. This also makes
