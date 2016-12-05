@@ -2,7 +2,7 @@
 Laundry timer for the ESP8266 ESP-01: http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-01
 
 Prototype photo: https://goo.gl/photos/NjTwntU1QywMau2y6
-!(https://lh3.googleusercontent.com/6R5P5Lql9TwAfV73jizqW56aoePHwbTXgdcs2FTstPrUKKrtCX9jboEyg9MQAf-48n91aasUhaZMHw=w480)
+![prototype photo](https://lh3.googleusercontent.com/6R5P5Lql9TwAfV73jizqW56aoePHwbTXgdcs2FTstPrUKKrtCX9jboEyg9MQAf-48n91aasUhaZMHw=w480)
 
 This requires the ESP8266 board support files to be installed
 as per http://www.arduinesp.com/getting-started. This also makes
