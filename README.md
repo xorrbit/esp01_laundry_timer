@@ -1,5 +1,5 @@
 # esp01_laundry_timer
-Laundry timer for the ESP8266 ESP-01.
+Laundry timer for the ESP8266 ESP-01: http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-01
 
 Prototype photo: https://goo.gl/photos/NjTwntU1QywMau2y6
 
